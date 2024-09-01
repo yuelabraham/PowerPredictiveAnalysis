@@ -1,1 +1,2 @@
-# PowerPredictiveAnalysis
+# Wind Turbine Power Output Prediction via Linear Regression
+In progress...
